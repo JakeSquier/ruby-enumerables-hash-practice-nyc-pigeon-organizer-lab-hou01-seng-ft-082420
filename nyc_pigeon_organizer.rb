@@ -7,6 +7,6 @@ def nyc_pigeon_organizer(data)
         end
       end
     end
-    final_array
+    final_array[name][key] = []
   end
 end
